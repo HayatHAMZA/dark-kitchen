@@ -1,0 +1,38 @@
+.NavBar{
+    padding: 15px 100px 15px 100px;
+    background-color: #f8f4e7;
+}
+
+.BarSpace{
+    gap:30px;
+}
+
+.btnNosPartenaires{
+    color: #f8f4e7;
+    
+}
+#dropdownMenuButton{
+    color: #f8f4e7;
+}
+.dropDownMenu :hover{
+    background-color : #f8f4e7;
+    
+}
+.kitchen{
+    width: 60%;
+}
+.aboutUs{
+    width: 30%;
+    height: 80%;
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    background-color: #2b403a;
+    /* margin-left: 50%;
+    margin-top: 4%; */
+}
+#contenue{
+    position: relative;
+    padding: 15px 100px 15px 0px;
+    left: 9%;
+}
